@@ -38,7 +38,7 @@ Tailwind utility classes for quick customization
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/todesktop-clone.git
+git clone https://github.com/AryanNoSensie/tailwindMproject
 cd todesktop-clone
 
 2️⃣ Install Dependencies (If using Vite or npm tools)
@@ -68,3 +68,5 @@ Feel free to open issues and pull requests!
 This project is licensed under the MIT License.
 
 Made with ❤️ using Tailwind CSS
+
+## Here is the live link : https://tailwind-mproject.vercel.app/
